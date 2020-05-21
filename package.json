@@ -1,0 +1,24 @@
+{
+  "name": "rickmorty-asynchronism",
+  "version": "1.0.0",
+  "description": "Rick and Morty API Asynchronism into JS",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JhonathanAlfonso/RickMorty-Asynchronism.git"
+  },
+  "keywords": [
+    "callback",
+    "promesas",
+    "async"
+  ],
+  "author": "Jhonathan Alfonso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JhonathanAlfonso/RickMorty-Asynchronism/issues"
+  },
+  "homepage": "https://github.com/JhonathanAlfonso/RickMorty-Asynchronism#readme"
+}
